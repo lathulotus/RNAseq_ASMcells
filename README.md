@@ -5,7 +5,8 @@ Run RNAseq data processing pipeline to ascertain differentially expressed transc
 Primary human airway smooth muscle (ASM) left untreated or treated with dexamethasone (for inflammatory disease treatment). RNA isolated and prepped using llumina TruSeq RNA Library Prep Kit v2. Sequencing of 75 bp paired-end reads was performed with an Illumina HiSeq 2000 instrument. The first 12 bases of all reads were trimmed by the authors with the FASTX Toolkit due to sequence bias in the initial 12 bases on the 5ʹ end of reads.
 
 ### Aim
-- Use HISAT2 to obtain quality control metrics and assess quality of the samples
+- Use FASTQC to obtain quality control metrics and assess quality of the samples
+- Use HISAT2 to map reads to reference genome
 - Use HTSeq to perform counting and normalization
 - Use edgeR to perform differential gene expression and visualize data
 - Create multidimensional scaling (MDS) plot to analyze findings
