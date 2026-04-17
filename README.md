@@ -12,3 +12,5 @@ Primary human airway smooth muscle (ASM) left untreated or treated with dexameth
 - Create multidimensional scaling (MDS) plot to analyze findings
 - Ascertain top 10 most differentially gene expression
 - Run MISO pipeline to assess alternatively expressed isoforms
+
+![Sashimi Plot](/data/ENSG00000185721_zoom.png)
