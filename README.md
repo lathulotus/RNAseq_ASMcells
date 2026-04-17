@@ -1,4 +1,4 @@
-## RNAseq Data Processing Pipeline
+## RNAseq Data Processing for ASM Cell Analysis
 Run RNAseq data processing pipeline to ascertain differentially expressed transcripts. Data from [Himes et al., PLOS one, 2014](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0099625#s2).
 
 ### Background
